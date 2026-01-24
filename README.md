@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate computer science student at [Epitech Digital School](https://www.epitech.eu/), <br> 
+👨‍💻 Student at [Epitech Digital School](https://www.epitech.eu/), <br> 
 🚀 Constantly exploring the world of tech to grow and improve.<br>
 
 ## 🌐 Socials:
