@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-sanson-12049529b/) 
-[![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/YOUR-REDDIT-USERNAME)
+[![Reddit](https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/TechnicianScary5626/)
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
