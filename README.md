@@ -9,11 +9,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/TechnicianScary5626/)
 [![Profile Views](https://komarev.com/ghpvc/?username=B3ANQ&style=for-the-badge&color=blueviolet)](https://github.com/B3ANQ)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 💻 Tech Stack & Skills
 
@@ -51,46 +47,25 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=B3ANQ&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3ANQ&theme=synthwave&hide_border=true" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ANQ&theme=synthwave&hide_border=true&layout=compact&langs_count=10&card_width=445" alt="Top Languages" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B3ANQ&theme=synthwave-84&hide_border=true&area=true" alt="Contribution Graph" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=B3ANQ&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3ANQ&theme=synthwave&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B3ANQ&theme=synthwave" alt="Profile Summary" width="49%"/>
 
 ---
 
 ## 🔥 Recent Activity
 
-<div align="center">
+### 📌 Pinned Repositories
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B3ANQ&repo=OptiCV.AI&theme=synthwave&hide_border=true)](https://github.com/B3ANQ/OptiCV.AI)
 
 ---
-
-<div align="center">
 
 ### If you want to contact me!
 **Open to collaborations and new opportunities**
