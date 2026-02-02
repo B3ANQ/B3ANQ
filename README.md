@@ -63,7 +63,7 @@
 
 ### 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B3ANQ&repo=OptiCV.AI&theme=synthwave&hide_border=true)](https://github.com/B3ANQ/OptiCV.AI)
+[![OptiCV.AI](https://github-readme-stats.vercel.app/api/pin/?username=B3ANQ&repo=OptiCV.AI&theme=synthwave&hide_border=true)](https://github.com/B3ANQ/OptiCV.AI)
 
 ---
 
